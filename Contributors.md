@@ -2266,3 +2266,5 @@ contribution by arshi
 - [Ngamize Philbert](https://github.com/nik-p12)
 - [Rick  R] (https://github.com/rikkyrikky-ship-it)
 - [Johanna Mihi](https://github.com/23f2004058)
+- - Nitesh (https://github.com/NETIZEN-11)
+
